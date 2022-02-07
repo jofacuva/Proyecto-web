@@ -1,0 +1,27 @@
+* {
+    font-size: 1em;
+}
+
+.pos {
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    z-index: -10;
+    visibility: visible;
+}
+.centrado {
+
+    margin-left: 20%;
+}
+.boton {
+   margin-left: 40%;
+}
+ul {
+    justify-content: center;
+    padding-left: 1em;
+}
+li {
+    
+    padding: 1em;
+}
